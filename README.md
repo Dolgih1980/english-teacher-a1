@@ -1,1 +1,3 @@
-# english-teacher-a1
+# English Teacher A1
+
+Виртуальный учитель английского языка уровня A1.
